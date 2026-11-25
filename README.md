@@ -4,7 +4,7 @@
 
 It turns monthly SKU-level demand forecasts into a reconciled replenishment buy, and it does that across two channels with different demand drivers. The project covers the whole workflow: cleaning the data, building a SKU master, forecasting, back-testing every logic change against a ship gate, simulating inventory, reconciling bottom-up to top-down, reviewing SKU lines for outliers, and modeling launch-and-fade lifecycles.
 
-![Model raw vs recommended buy](output/charts/01_otb_raw_vs_recommended.png)
+![Model raw vs recommended buy](01_otb_raw_vs_recommended.png)
 
 ---
 
@@ -167,29 +167,27 @@ A change ships only if it cuts WAPE by **at least 2 points** *and* keeps **|bias
 **Next test:** flag the Q4-2024 budget release as a one-time event so it drops out of the 12-month level, and pair v1.2c's capped level with a bias correction.
 
 ---
-
 ## Charts
 
 ### Buy and reconciliation
-![Model raw vs recommended buy](charts/01_otb_raw_vs_recommended.png)
-![Top-down reconciliation](charts/02_jan_topdown_reconciliation.png)
-![SKU review flags](charts/03_sku_review_flags.png)
-![Inventory simulation](charts/11_inventory_simulation_h2_2025.png)
+![Model raw vs recommended buy](01_otb_raw_vs_recommended.png)
+![Top-down reconciliation](02_jan_topdown_reconciliation.png)
+![SKU review flags](03_sku_review_flags.png)
+![Inventory simulation](11_inventory_simulation_h2_2025.png)
 
 ### Demand drivers
-![Monthly demand by channel](charts/04_monthly_demand_by_channel.png)
-![Lead time by channel](charts/05_lead_time_by_channel.png)
-![Seasonality heatmap](charts/06_seasonality_heatmap.png)
+![Monthly demand by channel](04_monthly_demand_by_channel.png)
+![Lead time by channel](05_lead_time_by_channel.png)
+![Seasonality heatmap](06_seasonality_heatmap.png)
 
 ### Lifecycle
-![Launch-and-fade curve](charts/07_launch_and_fade_curve.png)
-![SKU lifecycle](charts/08_sku_lifecycle_small_multiples.png)
+![Launch-and-fade curve](07_launch_and_fade_curve.png)
+![SKU lifecycle](08_sku_lifecycle_small_multiples.png)
 
 ### Model performance
-![Model versions](charts/09_model_versions_wape_bias.png)
-![Back-test](charts/10_backtest_actual_vs_forecast.png)
+![Model versions](09_model_versions_wape_bias.png)
+![Back-test](10_backtest_actual_vs_forecast.png)
 
----
 ---
 
 ## Excel OTB planner
