@@ -1,0 +1,40 @@
+sku,sku_name,category,peak_half,yoy_ratio,status,h2022_H2,h2023_H1,h2023_H2,h2024_H1,h2024_H2,h2025_H1,h2025_H2
+AS-01,Uniforms & t-shirts,Apparel & Sports,2025-H1,1.05,Stable,170,197,215,310,323,365,297
+AS-02,Sports equipment,Apparel & Sports,2022-H2,1.05,Stable,543,233,162,343,267,244,394
+EA-01,"Medals, trophies & plaques",Events & Awards,2024-H2,0.84,Stable,240,168,179,203,365,215,263
+EA-02,Event kits & giveaways,Events & Awards,2024-H2,1.01,Stable,59,27,78,82,125,120,89
+FF-01,Chairs & armchairs,Furniture & Fixtures,2024-H2,0.62,Fading,33,27,49,43,62,33,32
+FF-02,"Tables, desks & cabinets",Furniture & Fixtures,2024-H2,0.84,Stable,167,136,230,174,274,183,195
+FF-03,"Fans, aircon & electricals",Furniture & Fixtures,2024-H1,0.66,Fading,134,95,94,170,125,102,94
+FN-01,Rice,Food & Nutrition,2023-H2,1.0,Stable,16,64,239,99,109,157,50
+FN-02,Milk (fresh/UHT/powder),Food & Nutrition,2024-H1,0.67,Fading,50,40,129,373,369,246,251
+FN-03,Bread & baked goods,Food & Nutrition,2023-H2,0.78,Stable,48,92,255,119,169,175,50
+FN-04,"Fruits, vegetables & eggs",Food & Nutrition,2023-H2,0.61,Fading,20,38,211,76,102,92,17
+FN-05,Canned & processed food,Food & Nutrition,2023-H2,0.8,Stable,8,9,51,15,39,34,9
+FN-99,Food items – mixed lots,Food & Nutrition,2025-H1,1.21,Stable,353,375,614,516,689,844,616
+GM-99,General merchandise – mixed lots,General Merchandise,2025-H2,1.16,Stable,825,398,627,451,890,624,926
+HH-01,Alcohol & sanitizers,Health & Hygiene,2022-H2,1.0,Stable,36,21,17,8,20,18,10
+HH-02,Face masks & PPE,Health & Hygiene,2022-H2,1.14,Stable,49,10,9,11,18,16,17
+HH-03,Vitamins & medicines,Health & Hygiene,2025-H1,0.96,Stable,55,35,41,112,108,114,97
+HH-04,Cleaning & janitorial,Health & Hygiene,2024-H1,0.85,Stable,173,160,133,176,159,165,121
+HH-05,Medical & first-aid supplies,Health & Hygiene,2022-H2,0.5,Fading,126,35,46,112,72,53,39
+HH-99,Health & hygiene – mixed lots,Health & Hygiene,2022-H2,1.11,Stable,360,129,153,136,274,216,239
+IT-01,Laptops,IT & Devices,2024-H2,0.51,Fading,80,47,88,70,129,46,55
+IT-02,Desktop computers,IT & Devices,2022-H2,0.98,Stable,62,27,49,43,43,36,48
+IT-03,Printers & scanners,IT & Devices,2024-H2,0.84,Stable,138,63,138,72,147,79,106
+IT-04,Tablets,IT & Devices,2022-H2,0.91,Stable,133,27,52,14,94,43,55
+IT-05,"Projectors, TVs & AV",IT & Devices,2023-H2,0.57,Fading,152,82,173,66,103,53,44
+IT-06,Storage & peripherals,IT & Devices,2022-H2,0.55,Fading,91,43,70,47,70,42,22
+IT-99,Office/IT equipment – mixed lots,IT & Devices,2024-H2,0.99,Stable,1143,530,920,817,1391,1049,1143
+LM-01,Learning modules / SLMs,Learning Materials,2023-H2,0.77,Stable,21,8,68,35,26,28,19
+LM-02,Books & supplementary readers,Learning Materials,2025-H2,2.7,Growing,81,41,51,93,258,174,774
+LM-03,Science & math kits,Learning Materials,2024-H2,0.46,Fading,49,19,44,80,123,44,50
+LM-04,Art & classroom supplies,Learning Materials,2024-H1,0.46,Fading,10,8,15,21,5,7,5
+LM-99,Learning materials – mixed lots,Learning Materials,2024-H2,0.94,Stable,539,213,465,380,792,518,589
+OP-01,Bond paper (A4/long/short),Office & Print,2024-H2,0.84,Stable,84,55,113,55,121,79,69
+OP-02,Ink & ink refills,Office & Print,2023-H1,0.81,Stable,245,259,239,167,186,164,123
+OP-03,Toner cartridges,Office & Print,2022-H2,0.88,Stable,39,24,34,16,33,20,23
+OP-04,"Folders, envelopes & filing",Office & Print,2023-H1,0.52,Fading,92,103,65,81,76,47,34
+OP-05,Writing instruments,Office & Print,2024-H1,0.57,Fading,118,181,122,197,150,122,77
+OP-06,Tarpaulin & signage,Office & Print,2024-H2,0.64,Fading,24,20,26,21,43,27,14
+OP-99,Office supplies – mixed lots,Office & Print,2025-H1,1.25,Stable,2969,1754,2048,2103,2643,3001,2912

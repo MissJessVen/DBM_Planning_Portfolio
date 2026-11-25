@@ -1,0 +1,79 @@
+sku,sku_name,category,channel,bom,prev_fc,sales_plan,rec_sales,eom_target,otb,rec_otb,wos,flags,review_note,rec_otb_cost
+LM-99,Learning materials – mixed lots,Learning Materials,Bid,224531.7,102715.2,109326.9,59783.3,318609.5,203404.7,153861.0,8.9,—,Pass,107702.7
+LM-02,Books & supplementary readers,Learning Materials,Bid,502040.6,185583.6,178589.7,97658.2,520460.7,197009.8,116078.3,12.2,Forecast > 2.5x LY,Check: level inflated by a 2025 spike?,81254.8
+OP-99,Office supplies – mixed lots,Office & Print,Quick-Buy,17208.1,41228.1,41909.7,41909.7,39258.2,63959.8,63959.8,1.8,Stockout risk,Opening stock covers under half of Jan; place PO first,44771.9
+IT-99,Office/IT equipment – mixed lots,IT & Devices,Quick-Buy,263.9,30119.5,30478.5,15199.1,19377.3,49591.8,34312.5,0.0,Stockout risk,Opening stock covers under half of Jan; place PO first,24018.7
+GM-99,General merchandise – mixed lots,General Merchandise,Quick-Buy,7145.9,13445.9,12841.9,7565.5,12349.8,18045.8,12769.5,2.4,—,Pass,8938.6
+AS-02,Sports equipment,Apparel & Sports,Bid,14491.4,5943.2,6812.7,6812.7,18374.8,10696.1,10696.1,9.2,—,Pass,7487.3
+LM-99,Learning materials – mixed lots,Learning Materials,Quick-Buy,3060.5,8415.3,7942.4,3968.9,9861.2,14743.1,6235.5,1.7,Stockout risk,Opening stock covers under half of Jan; place PO first,4364.8
+FN-99,Food items – mixed lots,Food & Nutrition,Quick-Buy,8281.0,6857.6,6742.1,4814.6,9204.1,7665.1,5737.6,5.3,—,Pass,4016.3
+IT-03,Printers & scanners,IT & Devices,Bid,2318.9,2708.0,3374.6,3374.6,4240.9,5296.6,5296.6,3.0,—,Pass,3707.6
+AS-02,Sports equipment,Apparel & Sports,Quick-Buy,9478.5,6610.4,6699.7,6699.7,7930.1,5151.2,5151.2,6.1,—,Pass,3605.9
+EA-01,"Medals, trophies & plaques",Events & Awards,Quick-Buy,1945.6,3062.1,2991.0,2991.0,6094.5,7139.9,4787.8,2.8,—,Pass,3351.5
+FF-02,"Tables, desks & cabinets",Furniture & Fixtures,Quick-Buy,0.0,1855.5,1823.2,1823.2,2801.4,4624.5,4624.5,0.0,Stockout risk,Opening stock covers under half of Jan; place PO first,3237.2
+LM-02,Books & supplementary readers,Learning Materials,Quick-Buy,0.0,2818.2,3278.4,1638.2,4780.3,8058.7,4220.6,0.0,"Stockout risk, Forecast > 2.5x LY",Opening stock covers under half of Jan; place PO first; Check: level inflated by a 2025 spike?,2954.4
+AS-01,Uniforms & t-shirts,Apparel & Sports,Quick-Buy,12458.2,7337.6,7237.1,7237.1,7525.2,2304.1,2304.1,7.5,—,Pass,1612.9
+LM-03,Science & math kits,Learning Materials,Bid,831.0,4337.8,4631.5,2532.6,0.0,3800.4,1701.6,0.8,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",1191.1
+EA-02,Event kits & giveaways,Events & Awards,Quick-Buy,911.9,1031.5,1071.7,1071.7,2251.8,2411.6,1542.6,3.7,Forecast > 2.5x LY,Check: level inflated by a 2025 spike?,1079.8
+OP-02,Ink & ink refills,Office & Print,Quick-Buy,199.7,766.4,739.5,739.5,996.3,1536.0,1536.0,1.2,Stockout risk,Opening stock covers under half of Jan; place PO first,1075.2
+IT-02,Desktop computers,IT & Devices,Quick-Buy,0.0,831.2,1263.1,629.9,760.4,2023.5,1390.3,0.0,"Stockout risk, Forecast > 2.5x LY, Moved >30% vs last cycle",Opening stock covers under half of Jan; place PO first; Check: level inflated by a 2025 spike?; Forecast up 52% after Dec actuals,973.2
+IT-03,Printers & scanners,IT & Devices,Quick-Buy,1526.9,2184.3,1990.4,992.6,1667.5,2131.0,1133.2,3.3,Forecast > 2.5x LY,Check: level inflated by a 2025 spike?,793.2
+FF-01,Chairs & armchairs,Furniture & Fixtures,Quick-Buy,0.0,376.4,388.8,388.8,597.4,986.2,986.2,0.0,—,Pass,690.4
+HH-02,Face masks & PPE,Health & Hygiene,Quick-Buy,0.0,111.3,160.0,116.8,305.3,465.3,422.1,0.0,—,Pass,295.5
+FF-03,"Fans, aircon & electricals",Furniture & Fixtures,Quick-Buy,1466.8,747.4,723.6,723.6,1111.9,368.6,368.6,8.8,—,Pass,258.0
+OP-02,Ink & ink refills,Office & Print,Bid,0.0,735.1,765.2,317.9,0.0,765.2,317.9,0.0,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",222.5
+HH-03,Vitamins & medicines,Health & Hygiene,Quick-Buy,2460.0,1275.3,1211.3,884.1,1808.2,559.4,232.3,8.8,Forecast > 2.5x LY,Check: level inflated by a 2025 spike?,162.6
+FN-02,Milk (fresh/UHT/powder),Food & Nutrition,Quick-Buy,1181.3,718.7,648.1,462.8,933.0,399.8,214.5,7.9,—,Pass,150.2
+OP-01,Bond paper (A4/long/short),Office & Print,Quick-Buy,617.4,1013.0,747.9,747.9,0.0,130.4,130.4,3.6,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",91.3
+IT-06,Storage & peripherals,IT & Devices,Bid,0.0,27.4,41.5,41.5,52.2,93.7,93.7,0.0,—,Pass,65.6
+EA-01,"Medals, trophies & plaques",Events & Awards,Bid,12677.7,2493.2,2092.4,300.3,10881.1,295.8,0.0,26.2,Overstock,26 weeks of supply on hand; buy held at zero,0.0
+AS-01,Uniforms & t-shirts,Apparel & Sports,Bid,23739.7,6061.8,6180.2,6180.2,16669.0,0.0,0.0,16.6,Overstock,17 weeks of supply on hand; buy held at zero,0.0
+FF-01,Chairs & armchairs,Furniture & Fixtures,Bid,41071.1,11482.8,11466.6,6990.2,26428.3,0.0,0.0,15.5,—,Pass,0.0
+FF-03,"Fans, aircon & electricals",Furniture & Fixtures,Bid,18940.6,1502.1,1507.0,918.7,3473.5,0.0,0.0,54.4,"Overstock, Forecast > 2.5x LY",54 weeks of supply on hand; buy held at zero; Check: level inflated by a 2025 spike?,0.0
+FF-02,"Tables, desks & cabinets",Furniture & Fixtures,Bid,1242487.7,63919.4,63508.0,38715.4,0.0,0.0,0.0,84.7,"End-of-life, Overstock, Forecast > 2.5x LY","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 85 weeks of supply on hand; buy held at zero; Check: level inflated by a 2025 spike?",0.0
+EA-02,Event kits & giveaways,Events & Awards,Bid,100896.6,7078.4,6235.2,894.7,0.0,0.0,0.0,70.1,"End-of-life, Overstock, Lumpy","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 70 weeks of supply on hand; buy held at zero; One line = 37% of 2025 demand; forecast is fragile",0.0
+HH-01,Alcohol & sanitizers,Health & Hygiene,Quick-Buy,567.4,120.5,85.6,62.5,163.3,0.0,0.0,28.7,—,Pass,0.0
+FN-05,Canned & processed food,Food & Nutrition,Bid,83490.2,7205.4,7064.9,2949.9,0.0,0.0,0.0,51.2,"End-of-life, Overstock","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 51 weeks of supply on hand; buy held at zero",0.0
+HH-01,Alcohol & sanitizers,Health & Hygiene,Bid,852.4,134.8,135.0,54.5,386.5,0.0,0.0,27.3,—,Pass,0.0
+GM-99,General merchandise – mixed lots,General Merchandise,Bid,84376.3,28708.7,27918.3,27918.3,66122.6,9664.6,0.0,13.1,—,Pass,0.0
+FN-99,Food items – mixed lots,Food & Nutrition,Bid,1204250.8,216068.8,216089.8,90225.1,466627.3,0.0,0.0,24.1,"Overstock, Forecast > 2.5x LY",24 weeks of supply on hand; buy held at zero; Check: level inflated by a 2025 spike?,0.0
+FN-04,"Fruits, vegetables & eggs",Food & Nutrition,Quick-Buy,1183.1,264.9,241.2,172.2,0.0,0.0,0.0,21.2,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",0.0
+FN-04,"Fruits, vegetables & eggs",Food & Nutrition,Bid,73666.2,9259.2,9250.9,3862.6,0.0,0.0,0.0,34.5,"End-of-life, Overstock","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 34 weeks of supply on hand; buy held at zero",0.0
+FN-05,Canned & processed food,Food & Nutrition,Quick-Buy,1418.0,356.8,248.7,177.6,0.0,0.0,0.0,24.7,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",0.0
+FN-01,Rice,Food & Nutrition,Bid,237105.8,44305.8,43974.7,18361.0,94959.6,0.0,0.0,23.3,"Overstock, Forecast > 2.5x LY",23 weeks of supply on hand; buy held at zero; Check: level inflated by a 2025 spike?,0.0
+FN-03,Bread & baked goods,Food & Nutrition,Bid,281459.1,45140.5,45030.1,18801.6,97238.6,0.0,0.0,27.1,Overstock,27 weeks of supply on hand; buy held at zero,0.0
+FN-03,Bread & baked goods,Food & Nutrition,Quick-Buy,696.4,91.6,91.5,65.4,0.0,0.0,0.0,32.9,—,Pass,0.0
+FN-01,Rice,Food & Nutrition,Quick-Buy,387.2,177.4,163.3,116.6,235.1,11.2,0.0,10.3,—,Pass,0.0
+FN-02,Milk (fresh/UHT/powder),Food & Nutrition,Bid,300491.9,84376.1,76850.1,32087.6,165951.3,0.0,0.0,16.9,Overstock,17 weeks of supply on hand; buy held at zero,0.0
+IT-02,Desktop computers,IT & Devices,Bid,14393.1,3970.4,4014.2,4014.2,5044.6,0.0,0.0,15.5,Lumpy,One line = 46% of 2025 demand; forecast is fragile,0.0
+HH-99,Health & hygiene – mixed lots,Health & Hygiene,Quick-Buy,7935.5,4610.1,4097.8,2991.0,4775.0,937.3,0.0,8.4,—,Pass,0.0
+IT-01,Laptops,IT & Devices,Bid,155371.7,1895.7,1704.3,1704.3,0.0,0.0,0.0,394.7,"End-of-life, Overstock, Lumpy","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 99+ weeks of supply on hand; buy held at zero; One line = 50% of 2025 demand; forecast is fragile",0.0
+IT-01,Laptops,IT & Devices,Quick-Buy,2018.4,1525.6,1269.8,633.2,1063.9,315.3,0.0,6.9,Forecast > 2.5x LY,Check: level inflated by a 2025 spike?,0.0
+HH-99,Health & hygiene – mixed lots,Health & Hygiene,Bid,21598.6,6730.0,7063.1,2851.7,20215.8,5680.2,0.0,13.2,—,Pass,0.0
+HH-04,Cleaning & janitorial,Health & Hygiene,Quick-Buy,3236.9,1491.1,1455.7,1062.6,1781.6,0.4,0.0,9.6,—,Pass,0.0
+HH-05,Medical & first-aid supplies,Health & Hygiene,Bid,4530.6,475.6,458.8,185.2,1313.2,0.0,0.0,42.8,Overstock,43 weeks of supply on hand; buy held at zero,0.0
+HH-05,Medical & first-aid supplies,Health & Hygiene,Quick-Buy,1584.2,579.8,519.6,379.3,766.8,0.0,0.0,13.2,—,Pass,0.0
+HH-03,Vitamins & medicines,Health & Hygiene,Bid,19588.5,5627.6,5819.8,2349.7,16657.1,2888.3,0.0,14.6,—,Pass,0.0
+HH-02,Face masks & PPE,Health & Hygiene,Bid,424.3,0.0,0.0,0.0,0.0,0.0,0.0,1837215900836.0,—,Pass,0.0
+HH-04,Cleaning & janitorial,Health & Hygiene,Bid,2125.5,830.1,934.6,377.3,2675.0,1484.1,0.0,9.8,—,Pass,0.0
+IT-06,Storage & peripherals,IT & Devices,Quick-Buy,599.6,346.5,254.7,127.0,0.0,0.0,0.0,10.2,—,Pass,0.0
+IT-99,Office/IT equipment – mixed lots,IT & Devices,Bid,265513.8,75209.5,69164.3,69164.3,86917.9,0.0,0.0,16.6,"Overstock, Forecast > 2.5x LY",17 weeks of supply on hand; buy held at zero; Check: level inflated by a 2025 spike?,0.0
+IT-05,"Projectors, TVs & AV",IT & Devices,Quick-Buy,1263.9,1107.0,774.0,386.0,0.0,0.0,0.0,7.1,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",0.0
+IT-04,Tablets,IT & Devices,Bid,489303.9,16219.8,13675.0,13675.0,0.0,0.0,0.0,154.9,"End-of-life, Overstock, Lumpy","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 99+ weeks of supply on hand; buy held at zero; One line = 37% of 2025 demand; forecast is fragile",0.0
+IT-04,Tablets,IT & Devices,Quick-Buy,2530.6,994.4,854.7,426.2,716.1,0.0,0.0,12.8,—,Pass,0.0
+LM-04,Art & classroom supplies,Learning Materials,Quick-Buy,15.8,6.6,7.3,3.7,14.2,5.8,0.0,9.3,—,Pass,0.0
+LM-04,Art & classroom supplies,Learning Materials,Bid,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,—,Pass,0.0
+LM-03,Science & math kits,Learning Materials,Quick-Buy,1793.2,654.0,396.5,198.1,0.0,0.0,0.0,19.6,End-of-life,"Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit",0.0
+LM-01,Learning modules / SLMs,Learning Materials,Bid,164941.2,19342.2,19366.4,10590.1,0.0,0.0,0.0,36.9,"End-of-life, Overstock","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 37 weeks of supply on hand; buy held at zero",0.0
+LM-01,Learning modules / SLMs,Learning Materials,Quick-Buy,1218.2,415.8,373.9,186.8,726.4,0.0,0.0,14.1,—,Pass,0.0
+IT-05,"Projectors, TVs & AV",IT & Devices,Bid,106243.1,286.3,289.5,289.5,0.0,0.0,0.0,1589.1,"End-of-life, Overstock","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 99+ weeks of supply on hand; buy held at zero",0.0
+OP-03,Toner cartridges,Office & Print,Bid,8931.2,298.0,180.9,75.1,0.0,0.0,0.0,213.8,"End-of-life, Overstock","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 99+ weeks of supply on hand; buy held at zero",0.0
+OP-01,Bond paper (A4/long/short),Office & Print,Bid,5009.6,2073.7,2242.3,931.6,6247.2,3480.0,0.0,9.7,—,Pass,0.0
+OP-03,Toner cartridges,Office & Print,Quick-Buy,1247.4,404.0,322.2,322.2,598.4,0.0,0.0,16.8,—,Pass,0.0
+OP-04,"Folders, envelopes & filing",Office & Print,Bid,17018.8,0.0,0.0,0.0,0.0,0.0,0.0,73691382566876.6,"End-of-life, Overstock","Demand <50% of a year ago vs channel trend: no stock target, buy only to cover the month, then exit; 99+ weeks of supply on hand; buy held at zero",0.0
+OP-05,Writing instruments,Office & Print,Bid,397.0,2.0,2.0,0.9,5.7,0.0,0.0,840.1,—,Pass,0.0
+OP-04,"Folders, envelopes & filing",Office & Print,Quick-Buy,561.5,151.6,150.4,150.4,279.3,0.0,0.0,16.2,—,Pass,0.0
+OP-05,Writing instruments,Office & Print,Quick-Buy,532.1,134.9,116.2,116.2,215.8,0.0,0.0,19.8,—,Pass,0.0
+OP-06,Tarpaulin & signage,Office & Print,Bid,81.4,14.5,14.5,6.0,40.4,0.0,0.0,24.3,—,Pass,0.0
+OP-06,Tarpaulin & signage,Office & Print,Quick-Buy,573.5,127.2,124.2,124.2,230.7,0.0,0.0,20.0,—,Pass,0.0
+OP-99,Office supplies – mixed lots,Office & Print,Bid,104131.2,36358.8,36599.3,15206.2,101968.1,34436.1,0.0,12.3,Forecast > 2.5x LY,Check: level inflated by a 2025 spike?,0.0

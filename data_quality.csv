@@ -1,0 +1,9 @@
+step,rows,action
+Raw rows loaded (19 quarterly files),221302,Combined all files
+Rows sitting in the wrong quarter file,40355,Kept; re-keyed on the record date
+"Duplicate rows removed (1.0 vs 1, True vs TRUE)",56269,"Normalized formats, deduped on 10 fields"
+2022-Q1 file missing,17,Modeling window starts Apr-2022
+Lines with no item budget,83342,Notice budget split across its lines
+Service lines excluded,98529,Out of goods replenishment scope
+"Goods lines mapped to 39 SKUs, Apr-2022 to Dec-2025",66504,"Keyword rules, then mixed lots by category"
+Tender-size lines carved out (> channel P99),866,Planned as a separate pipeline

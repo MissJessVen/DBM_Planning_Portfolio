@@ -1,0 +1,55 @@
+month,channel,category,bom_php_m,sales_plan_php_m,eom_target_php_m,otb_retail_php_m,otb_cost_php_m,rec_sales_php_m,rec_otb_cost_php_m,rec_bom_php_m,override,topdown_sales_php_m,variance_pct,reconcile,weeks_of_supply_bom
+2026-01,Bid,Apparel & Sports,38.23,12.99,35.04,10.7,7.49,12.99,7.49,38.23,None,12.3,6.0,OK,12.7
+2026-01,Bid,Events & Awards,113.57,8.33,10.88,0.3,0.21,1.19,0.0,113.57,Scaled to 1.25x top-down,0.96,771.0,Review,59.1
+2026-01,Bid,Food & Nutrition,2180.46,398.26,824.78,0.0,0.0,166.29,0.0,2180.46,Scaled to 1.25x top-down,133.03,199.0,Review,23.7
+2026-01,Bid,Furniture & Fixtures,1302.5,76.48,29.9,0.0,0.0,46.62,0.0,1302.5,Scaled to 1.25x top-down,37.3,105.0,Review,73.7
+2026-01,Bid,General Merchandise,84.38,27.92,66.12,9.66,6.77,27.92,0.0,84.38,None,21.69,29.0,Review,13.1
+2026-01,Bid,Health & Hygiene,49.12,14.41,41.25,10.05,7.04,5.82,0.0,49.12,Scaled to 1.25x top-down,4.65,210.0,Review,14.8
+2026-01,Bid,IT & Devices,1033.14,92.26,96.26,5.39,3.77,92.26,3.77,1033.14,None,219.51,-58.0,Review,48.5
+2026-01,Bid,Learning Materials,892.34,311.91,839.07,404.21,282.95,170.56,190.15,892.34,Scaled to 1.25x top-down,136.45,129.0,Review,12.4
+2026-01,Bid,Office & Print,135.57,39.8,108.26,38.68,27.08,16.54,0.22,135.57,Scaled to 1.25x top-down,13.23,201.0,Review,14.7
+2026-01,Quick-Buy,Apparel & Sports,21.94,13.94,15.46,7.46,5.22,13.94,5.22,21.94,None,11.39,22.0,OK,6.8
+2026-01,Quick-Buy,Events & Awards,2.86,4.06,8.35,9.55,6.69,4.06,4.43,2.86,None,3.17,28.0,Review,3.0
+2026-01,Quick-Buy,Food & Nutrition,13.15,8.13,10.37,8.08,5.65,5.81,4.17,13.15,Scaled to 1.25x top-down,4.65,75.0,Review,7.0
+2026-01,Quick-Buy,Furniture & Fixtures,1.47,2.94,4.51,5.98,4.19,2.94,4.19,1.47,None,2.19,34.0,Review,2.2
+2026-01,Quick-Buy,General Merchandise,7.15,12.84,12.35,18.05,12.63,7.57,8.94,7.15,Scaled to 1.25x top-down,6.05,112.0,Review,2.4
+2026-01,Quick-Buy,Health & Hygiene,15.78,7.53,9.6,1.96,1.37,5.5,0.46,15.78,Scaled to 1.25x top-down,4.4,71.0,Review,9.1
+2026-01,Quick-Buy,IT & Devices,8.2,36.89,23.59,54.06,37.84,18.39,25.79,8.2,Scaled to 1.25x top-down,14.72,151.0,Review,1.0
+2026-01,Quick-Buy,Learning Materials,6.09,12.0,15.38,22.81,15.97,6.0,7.32,6.09,Scaled to 1.25x top-down,4.8,150.0,Review,2.2
+2026-01,Quick-Buy,Office & Print,20.94,44.11,41.58,65.63,45.94,44.11,45.94,20.94,None,31.62,40.0,Review,2.1
+2026-02,Bid,Apparel & Sports,35.93,15.93,51.91,31.9,22.33,15.93,22.33,35.93,None,11.56,38.0,Review,9.8
+2026-02,Bid,Events & Awards,105.54,19.68,5.98,0.05,0.03,19.68,0.0,112.38,None,24.55,-20.0,OK,23.2
+2026-02,Bid,Food & Nutrition,1782.2,390.91,1098.18,72.75,50.93,122.52,0.0,2014.18,Scaled to 1.25x top-down,98.02,299.0,Review,19.7
+2026-02,Bid,Furniture & Fixtures,1226.02,80.13,75.39,49.04,34.33,22.26,25.12,1255.88,Scaled to 1.25x top-down,17.8,350.0,Review,66.3
+2026-02,Bid,General Merchandise,66.12,30.06,101.8,65.73,46.01,20.49,46.09,56.46,Scaled to 1.25x top-down,16.4,83.0,Review,9.5
+2026-02,Bid,Health & Hygiene,44.76,18.75,52.1,28.38,19.87,9.37,14.84,43.3,Scaled to 1.25x top-down,7.49,150.0,Review,10.3
+2026-02,Bid,IT & Devices,946.27,52.7,99.0,2.07,1.45,52.7,1.45,946.27,None,43.79,20.0,OK,77.7
+2026-02,Bid,Learning Materials,984.65,413.18,822.84,371.3,259.91,413.18,63.42,993.42,None,342.63,21.0,OK,10.3
+2026-02,Bid,Office & Print,134.45,50.41,124.03,65.92,46.14,19.96,7.92,119.35,Scaled to 1.25x top-down,15.97,216.0,Review,11.5
+2026-02,Quick-Buy,Apparel & Sports,15.46,17.09,19.29,20.92,14.65,17.09,14.65,15.46,None,19.96,-14.0,OK,3.9
+2026-02,Quick-Buy,Events & Awards,8.35,9.6,6.33,7.58,5.31,5.9,4.97,5.13,Scaled to 1.25x top-down,4.72,104.0,Review,3.8
+2026-02,Quick-Buy,Food & Nutrition,13.09,7.98,11.78,8.83,6.18,7.98,6.15,13.29,None,8.31,-4.0,OK,7.1
+2026-02,Quick-Buy,Furniture & Fixtures,4.51,3.08,7.79,6.36,4.45,3.08,3.5,4.51,None,4.63,-34.0,Review,6.4
+2026-02,Quick-Buy,General Merchandise,12.35,13.83,15.83,17.31,12.11,13.83,9.36,12.35,None,12.49,11.0,OK,3.9
+2026-02,Quick-Buy,Health & Hygiene,10.22,9.8,10.85,10.59,7.41,9.8,6.92,10.94,None,8.33,18.0,OK,4.5
+2026-02,Quick-Buy,IT & Devices,25.38,21.07,23.92,20.31,14.22,21.07,13.99,26.65,None,27.36,-23.0,OK,5.2
+2026-02,Quick-Buy,Learning Materials,16.9,15.89,15.23,15.1,10.57,8.59,7.64,10.55,Scaled to 1.25x top-down,6.87,131.0,Review,4.6
+2026-02,Quick-Buy,Office & Print,42.46,55.86,45.44,58.9,41.23,55.86,41.23,42.46,None,61.25,-9.0,OK,3.3
+2026-03,Bid,Apparel & Sports,51.91,23.59,42.69,14.38,10.06,23.59,10.06,51.91,None,27.61,-15.0,OK,9.5
+2026-03,Bid,Events & Awards,85.9,10.82,7.67,4.41,3.09,4.1,0.0,92.7,Scaled to 1.25x top-down,3.28,230.0,Review,34.4
+2026-03,Bid,Food & Nutrition,1464.04,520.5,1919.12,1079.08,755.35,271.4,6.27,1891.65,Scaled to 1.25x top-down,217.12,140.0,Review,12.2
+2026-03,Bid,Furniture & Fixtures,1194.93,202.01,34.31,0.0,0.0,202.01,0.0,1269.5,None,288.72,-30.0,Review,25.6
+2026-03,Bid,General Merchandise,101.8,46.27,52.33,0.0,0.0,46.27,0.0,101.8,None,39.84,16.0,OK,9.5
+2026-03,Bid,Health & Hygiene,54.4,23.68,45.84,16.82,11.77,23.68,11.7,55.14,None,16.84,41.0,Review,9.9
+2026-03,Bid,IT & Devices,895.64,54.21,105.24,2.29,1.6,54.21,1.6,895.64,None,46.84,16.0,OK,71.5
+2026-03,Bid,Learning Materials,942.76,405.19,696.42,253.61,177.53,266.97,116.97,670.84,Scaled to 1.25x top-down,213.57,90.0,Review,10.1
+2026-03,Bid,Office & Print,149.96,57.75,104.28,37.74,26.41,39.34,17.99,110.7,Scaled to 1.25x top-down,31.47,84.0,Review,11.2
+2026-03,Quick-Buy,Apparel & Sports,19.29,25.31,17.19,23.21,16.25,25.31,16.25,19.29,None,24.23,4.0,OK,3.3
+2026-03,Quick-Buy,Events & Awards,6.33,5.28,7.02,5.97,4.18,5.28,4.18,6.33,None,6.96,-24.0,OK,5.2
+2026-03,Quick-Buy,Food & Nutrition,13.93,10.63,15.91,14.0,9.8,10.63,9.8,14.09,None,20.18,-47.0,Review,5.7
+2026-03,Quick-Buy,Furniture & Fixtures,7.79,7.75,5.18,5.14,3.6,6.41,2.97,6.44,Scaled to 1.25x top-down,5.12,51.0,Review,4.4
+2026-03,Quick-Buy,General Merchandise,15.83,21.28,11.0,16.46,11.52,15.99,8.65,11.89,Scaled to 1.25x top-down,12.79,66.0,Review,3.2
+2026-03,Quick-Buy,Health & Hygiene,11.01,12.37,10.14,11.55,8.08,12.37,8.08,11.04,None,11.11,11.0,OK,3.9
+2026-03,Quick-Buy,IT & Devices,24.62,21.67,24.7,21.79,15.26,21.67,14.92,25.57,None,27.48,-21.0,OK,4.9
+2026-03,Quick-Buy,Learning Materials,16.11,15.59,14.08,13.91,9.74,11.59,7.08,12.88,Scaled to 1.25x top-down,9.27,68.0,Review,4.5
+2026-03,Quick-Buy,Office & Print,45.49,64.0,40.6,59.11,41.38,64.0,41.38,45.49,None,66.18,-3.0,OK,3.1

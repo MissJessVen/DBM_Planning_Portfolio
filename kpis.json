@@ -1,0 +1,21 @@
+{
+ "clean_lines": 66504,
+ "skus": 39,
+ "jan_otb_cost_php_m": 470.8,
+ "jan_rec_otb_cost_php_m": 308.1,
+ "q1_otb_cost_php_m": 2173.6,
+ "q1_rec_otb_cost_php_m": 875.5,
+ "champ_wape_pct": 92.2,
+ "champ_bias_pct": -1.8,
+ "at_risk_skus": 40,
+ "stockout_risk": 7,
+ "overstock": 19,
+ "eol": 17,
+ "jan_cells_overridden": 11,
+ "h2_2025_bias_pct": 50.0,
+ "tender_value_share_pct": 40.0,
+ "launch_m0_pct": 38.0,
+ "launch_items": 92,
+ "jan_cut_pct": 35.0,
+ "q1_cut_pct": 60.0
+}

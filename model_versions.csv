@@ -1,0 +1,6 @@
+version,change,wape_pct,bias_pct,wape_qb_pct,wape_bid_pct,decision,why,date,passes_gate
+v1.0,Baseline: trailing 3-month average,109.1,3.9,42.3,115.8,Retired,Highest error; chases the last spike,2025-07,Baseline
+v1.1,12-month level x category seasonality (shrunk 40% to flat) + tender carve-out,92.2,-1.8,37.7,97.7,Live,Error down 17 pts with bias near zero,2025-08,Yes
+v1.2a,v1.1 + SKU trend factor (last 6 mo vs a year earlier),97.0,12.2,40.9,102.7,Rolled back,Over-forecasts Bid by 13%; trend picked up the Q4-2024 one-off surge,2025-09,No
+v1.2b,v1.1 + channel-level trend factor (half strength),98.5,13.9,40.4,104.3,Rejected,Bias +14%; same Q4-2024 echo,2025-10,No
+v1.2c,v1.1 with outlier months capped at 3x the series median,79.2,-26.4,37.3,83.4,On hold,Error down 13 pts but bias -26% fails the gate (|bias| must stay within 10%),2025-11,No
