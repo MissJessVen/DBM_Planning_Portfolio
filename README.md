@@ -171,27 +171,25 @@ A change ships only if it cuts WAPE by **at least 2 points** *and* keeps **|bias
 ## Charts
 
 ### Buy and reconciliation
-| | |
-|---|---|
-| ![](output/charts/01_otb_raw_vs_recommended.png) | ![](output/charts/02_jan_topdown_reconciliation.png) |
-| ![](output/charts/03_sku_review_flags.png) | ![](output/charts/11_inventory_simulation_h2_2025.png) |
+![Model raw vs recommended buy](charts/01_otb_raw_vs_recommended.png)
+![Top-down reconciliation](charts/02_jan_topdown_reconciliation.png)
+![SKU review flags](charts/03_sku_review_flags.png)
+![Inventory simulation](charts/11_inventory_simulation_h2_2025.png)
 
 ### Demand drivers
-| | |
-|---|---|
-| ![](output/charts/04_monthly_demand_by_channel.png) | ![](output/charts/05_lead_time_by_channel.png) |
-
-![Seasonality heatmap](output/charts/06_seasonality_heatmap.png)
+![Monthly demand by channel](charts/04_monthly_demand_by_channel.png)
+![Lead time by channel](charts/05_lead_time_by_channel.png)
+![Seasonality heatmap](charts/06_seasonality_heatmap.png)
 
 ### Lifecycle
-![Launch-and-fade curve](output/charts/07_launch_and_fade_curve.png)
-![SKU lifecycle](output/charts/08_sku_lifecycle_small_multiples.png)
+![Launch-and-fade curve](charts/07_launch_and_fade_curve.png)
+![SKU lifecycle](charts/08_sku_lifecycle_small_multiples.png)
 
 ### Model performance
-| | |
-|---|---|
-| ![](output/charts/09_model_versions_wape_bias.png) | ![](output/charts/10_backtest_actual_vs_forecast.png) |
+![Model versions](charts/09_model_versions_wape_bias.png)
+![Back-test](charts/10_backtest_actual_vs_forecast.png)
 
+---
 ---
 
 ## Excel OTB planner
